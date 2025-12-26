@@ -40,20 +40,32 @@ using customer behaviour features.
 - **Annual Income** – customer's yearly income  
 
 ## Tech Stack
+
 Python
+
 Pandas
+
 Scikit-learn
+
 Joblib
+
 Gradio
+
 Hugging Face Spaces
 
 # How to Use
 🔹 Single Customer Prediction
+
 Enter:
+
 Purchase Frequency
+
 Loyalty Score
+
 Annual Income
+
 Click Predict Purchase Amount
+
 View the predicted spending value
 
 ##  Batch Prediction (CSV Upload)
